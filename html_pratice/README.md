@@ -1,42 +1,3 @@
-# "HTML for Beginners"
-
-### Full Course - 10 Chapters
-
----
-
-### Author Links
-
-👋 Hello, I'm Dave Gray.
-
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
-
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
-
----
-
-### Description
-
-📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) for this repository.
-
-🚀 This repository shares ALL of the resources referenced during the HTML tutorial series.
-
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
----
-
 ### ⚙ Free Web Dev Tools
 
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
@@ -84,20 +45,14 @@
 - 🔗 [MDN: Form Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ---
-
-### 💻 Source Code
-
-**Note:** The _"Starter Code"_ for a lesson is also the _"Completed Code"_ for the previous lesson unless otherwise noted.
-
-- 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/html_course/tree/main/01_lesson)
-- 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/html_course/tree/main/02_lesson)
-- 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/html_course/tree/main/03_lesson)
-- 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/html_course/tree/main/04_lesson)
-- 🔗 [Chapter 6 Starter Code](https://github.com/gitdagray/html_course/tree/main/05_lesson)
-- 🔗 [Chapter 7 Starter Code](https://github.com/gitdagray/html_course/tree/main/06_lesson)
-- 🔗 [Chapter 8 Starter Code](https://github.com/gitdagray/html_course/tree/main/07_lesson)
-- 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/html_course/tree/main/08_lesson)
-- 🔗 [Chapter 9 Completed Code](https://github.com/gitdagray/html_course/tree/main/09_lesson)
-- 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/html_course/tree/main/10_lesson_starter)
-- 🔗 [Chapter 10 Completed Code](https://github.com/gitdagray/html_course/tree/main/10_lesson)
-
+**Chapters:**
+Chapter 1 - Getting Started
+Chapter 2 - Head Element
+Chapter 3 - Text Basics 
+Chapter 4 - List Types
+Chapter 5 - Add Links 
+Chapter 6 - Add Images
+Chapter 7 - Semantic Tags 
+Chapter 8 - Create Tables 
+Chapter 9 - Forms & Inputs 
+Chapter 10 - HTML Project
